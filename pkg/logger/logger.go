@@ -19,7 +19,7 @@ const (
 	InfoLevel
 	// WarnLevel defines warn log level.
 	WarnLevel
-	// ErrorLevel defines error log level.
+	// ErrorLevel defines error log level.f
 	ErrorLevel
 	// FatalLevel defines fatal log level.
 	FatalLevel
